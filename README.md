@@ -3,6 +3,7 @@ GAcut is a algorithm to detect community structure based on Genetic Algorithm.
 
 It has been used to discover the community structure in funtional network in my research. 
 If you want to know more information about the algorithm, please visit the link below.
+
 https://link.springer.com/chapter/10.1007/978-3-319-59081-3_53
 
 Abstract:
